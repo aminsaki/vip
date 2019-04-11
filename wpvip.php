@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Registers_users
-  Plugin URI:http://themer.ir
+  Plugin URI:webscript.blog.com
   Description:این افزون برای ثبت نام کابران می باشه 
   Version: 1.0
   Author:امین ساکی   
